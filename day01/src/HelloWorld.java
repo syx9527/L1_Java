@@ -1,5 +1,3 @@
-package day01;
-
 /**
  * @author SYX
  */

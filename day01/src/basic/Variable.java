@@ -1,4 +1,4 @@
-package day01.basic;
+package basic;
 
 /**
  * 变量
