@@ -1,4 +1,4 @@
-package basic;
+package dat02.basic;
 
 /**
  * 常量
