@@ -1,4 +1,4 @@
-package dat02.operator;
+package day02.operator;
 
 /**
  * 三元表达式
@@ -10,5 +10,6 @@ public class TernaryExp {
         int a = 3, b = 4;
         int c;
         c = (a > b) ? a : b;
+        System.out.println(c);
     }
 }

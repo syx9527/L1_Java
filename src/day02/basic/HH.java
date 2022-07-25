@@ -1,4 +1,4 @@
-package dat02.basic;
+package day02.basic;
 
 public class HH {
     public static void main(String[] args) {

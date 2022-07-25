@@ -1,4 +1,4 @@
-package dat02.basic;
+package day02.basic;
 
 /**
  * 数据类型

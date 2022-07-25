@@ -1,4 +1,4 @@
-package dat02.operator;
+package day02.operator;
 
 /**
  * 连接符: +
