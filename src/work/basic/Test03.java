@@ -1,4 +1,4 @@
-package day02.work.basic;
+package work.basic;
 
 
 import java.util.Scanner;
@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author icas-tt
  */
-public class Test3 {
+public class Test03 {
     public static void main(String[] args) {
         int n;
         char grade;
