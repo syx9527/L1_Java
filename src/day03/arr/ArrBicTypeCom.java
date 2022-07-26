@@ -1,6 +1,6 @@
 package day03.arr;
 
-import org.jetbrains.annotations.NotNull;
+
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -64,7 +64,7 @@ public class ArrBicTypeCom {
         System.out.printf("a: %d, b: %s%n", a, b);
     }
 
-    public static void change(int @NotNull [] arr) {
+    public static void change(int  [] arr) {
         int c;
         c = arr[0];
         arr[0] = arr[1];
